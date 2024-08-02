@@ -1,3 +1,5 @@
+/* eslint-disable default-case */
+// /* eslint-disable default-case */
 import React, { useEffect, useState } from "react";
 import { X } from "react-feather";
 
