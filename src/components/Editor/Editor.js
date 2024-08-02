@@ -647,7 +647,7 @@ function Editor(props) {
 
         {generateBody()}
 
-        <button onClick={handleSubmission}>Save</button>
+        <button onClick={handleSubmission} style={{backgroundColor:"#898121"}}>Save</button>
       </div>
     </div>
   );

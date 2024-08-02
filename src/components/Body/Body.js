@@ -78,7 +78,7 @@ function Body() {
         <ReactToPrint
           trigger={() => {
             return (
-              <button>
+              <button style={{backgroundColor:"#898121"}}>
                 Download <ArrowDown />
               </button>
             );

@@ -1,5 +1,6 @@
 .container {
   --color: #239ce2;
+  background: #ffffff;
   min-width: 700px;
   max-width: 850px;
   margin: 0 auto;
